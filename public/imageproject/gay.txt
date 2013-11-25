@@ -1,0 +1,3 @@
+INSERT INTO `answers_data`(`user_id`, `rel_forms_questions_id`, `place_id`, `answer_type_id`, `value`, `date_time`)
+VALUES ('1', '1', '1', '1', '', '2013-11-04 17:20:43'),
+('1', '2', '1', '4', '', '2013-11-04 17:20:43')
